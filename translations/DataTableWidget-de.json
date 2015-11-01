@@ -1,0 +1,15 @@
+{
+  "Loading data. Please wait..." : "Daten werden geladen. Bitte warten...",
+  "Processing data. Please wait..." : "Daten werden verarbeitet. Bitte warten...",
+  "Show _MENU_ records per page" : "Zeige _MENU_ Einträge per Seite",
+  "No records found..." : "Keine Einträge gefunden...",
+  "Show _START_ to _END_ of _TOTAL_ found records" : "Zeige _START_ bis _END_ von _TOTAL_ gefundenen Einträge",
+  "No records available" : "Kein Einträge vorhanden",
+  "- of total _MAX_ records" : "- aus insgesamt _MAX_ Einträge",
+  "," : "'",
+  "Search" : "Suche",
+  "First page" : "Erste Seite",
+  "Last page" : "Letzte Seite",
+  "Next" : "Weiter",
+  "Previous" : "Zurück"
+}

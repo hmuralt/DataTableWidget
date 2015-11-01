@@ -1,0 +1,43 @@
+#tableTypeController {
+    padding-left: 200px;
+}
+
+#tableTypeController ._menu {
+    background-color: #F4F4F4;
+    height: 100%;
+    margin-left: -240px;
+    margin-top: -20px;
+    overflow: auto;
+    padding: 20px;
+    position: absolute;
+    width: 200px;
+}
+
+#tableTypeController ._menu ul {
+    list-style: outside none none;
+}
+
+#tableTypeController ._menu ul .active a {
+    background-color: #fff;
+    color: #000;
+    font-weight: bold;
+}
+
+#tableTypeController ._menu ul a {
+    color: #46495e;
+    display: block;
+    margin: 0 -20px;
+    padding: 10px 20px;
+}
+
+#tableTypeController ._menu ._actions {
+    min-height: 40px;
+}
+
+#specificColumnList li{
+    margin-left: 15px;
+}
+
+#tableTypeController .type-specificColumn .form-control{
+    width: 50%;
+}

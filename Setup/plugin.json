@@ -1,0 +1,16 @@
+{
+  "title": "DataTable Widget",
+  "version": "1.00",
+  "name": "DataTableWidget",
+  "description": "Enables to use JQuery DataTables Plugin",
+  "author": "Heinrich Muralt",
+  "options": [
+    {
+      "label": "CSS Framework Plugin",
+      "name": "cssFrameworkPlugin",
+      "type": "Select",
+      "default": "none",
+      "values": ["none", "Bootstrap", "Foundation", "jQueryUI"]
+    }
+  ]
+}

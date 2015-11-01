@@ -1,0 +1,22 @@
+{
+  "Data table": "Datentabelle",
+  "Table type": "Tabellentyp",
+  "Could not replace table type.": "Tabellentyp konnte nicht ersetzt werden.",
+  "Could not delete table type.": "Tabellentyp konnte nicht gelöscht werden.",
+  "Could not check file.": "Datei konnte nicht überprüft werden.",
+  "Columns and headings": "Spalten und Überschriften",
+  "original heading": "Original-Überschrift",
+  "display name (optional)": "Anzeigename (optional)",
+  "Target language": "Zielsprache",
+  "Display options": "Anzeigeoptionen",
+  "Show all columns and their headings": "Alle Spalten und deren Überschriften anzeigen",
+  "Show specific columns and/or different headings": "Spezifische Spalten und/oder andere Überschriften anzeigen",
+  "display as": "anzeigen als ",
+  "File could not be checked.": "Datei konnte nicht überprüft werden.",
+  "File type is not supported.": "Dateityp wird nicht unterstüzt.",
+  "Could not read file content.": "Datei konnte nicht gelesen werden.",
+  "Source data": "Quelldaten",
+  "View": "Anzeige",
+  "File": "Datei",
+  "Data table widget settings": "Datentabelle Widget-Einstellungen"
+}
